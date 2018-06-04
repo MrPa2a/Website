@@ -2,9 +2,10 @@
 
 Ce répo contient le site de 4 Dudes.
 
------------------
+La branche 'master' ne doit en aucun cas etre modifié, il esxiste pour cela la branche 'develop'.
+De même, à chaque nouvelle element sur lequel vous voulez travailer, il est important de créer une sous-branche depuis 'develop', et de ne pas dev directement dessus.
 
-Vous trouverez ici toutes les infos concernant l'utilisation du git.
+-----------------
  
 > N'oubliez pas que pour tous projet autre que le site en lui-même, il est necessaire d'utiliser un autre repository qui lui est propre, comme lors de l'élaboration de site client ou autre. 
 
