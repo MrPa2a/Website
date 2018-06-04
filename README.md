@@ -10,7 +10,7 @@ Vous trouverez ici toutes les infos concernant l'utilisation du git.
 
 -----------------
 
-##Vous pourrez trouver sous le dossier '4dudes' l'ensemble de l'arboresence du site sous React.
+## Vous pourrez trouver sous le dossier '4dudes' l'ensemble de l'arboresence du site sous React.
 
 -----------------
 
